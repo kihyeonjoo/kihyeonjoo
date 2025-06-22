@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to%20Kihyeon's Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kihyeon's%20Github&fontSize=90)
 
 - 👋 Hi, I’m @kihyeonjoo
 - 👀 I’m interested in ...
