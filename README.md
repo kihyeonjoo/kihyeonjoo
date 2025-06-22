@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kihyeon's%20Github&fontSize=90)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihyeonjoo)](https://github.com/kihyeonjoo/github-readme-stats)
+[![Kihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihyeonjoo&theme=radical)](https://github.com/kihyeonjoo/github-readme-stats)
 
 - 👋 Hi, I’m @kihyeonjoo
 - 👀 I’m interested in ...
