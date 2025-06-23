@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a AI Researcher from South Korea.<br/>
+  #### :raising_hand: I am a AI Researcher from South Korea. Graduate Student(PhD)<br/>
   #### :fire: Research Area: Brain Computer Interface, AI, Robot.<br/>
   #### :mortar_board: Bachelor of Information and Communication Engineering, Inha University(IU)
   <br/>
@@ -37,11 +37,6 @@
 
   <br/>
   <br/>
-  
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihyeonjoo)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kihyeonjoo)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 <!---
