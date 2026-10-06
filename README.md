@@ -8,6 +8,7 @@ Building robots that understand people — through vision, language, and brain s
 [![Email](https://img.shields.io/badge/Email-kihyeonjoo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kihyeonjoo@gmail.com)
 [![Homepage](https://img.shields.io/badge/Homepage-222222?style=flat-square&logo=githubpages&logoColor=white)](https://kihyeonjoo.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/kihyeon-joo-221a752ab/)
+[![CV](https://img.shields.io/badge/CV-PDF-4F46E5?style=flat-square)](https://kihyeonjoo.github.io/files/cv.pdf)
 <!-- 링크가 생기면 주석을 풀고 URL을 채우세요 -->
 <!-- [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](SCHOLAR_URL) -->
 
