@@ -1,7 +1,7 @@
 <div align="center">
 
 <!--Header-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Kihyeonjoo&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=BCI%20%F0%9F%A7%A0%20%C2%B7%20Emotion%20%E2%9D%A4%EF%B8%8F%20%C2%B7%20Robot%20%F0%9F%A4%96&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Kihyeon%20Joo&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=BCI%20%F0%9F%A7%A0%20%C2%B7%20Emotion%20%E2%9D%A4%EF%B8%8F%20%C2%B7%20Robot%20%F0%9F%A4%96&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
 Building robots that understand people — through vision, language, and brain signals.
 
