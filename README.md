@@ -15,6 +15,7 @@ Building robots that understand people — through vision, language, and brain s
 ## 👀 About Me
 
 - 🙋 AI Researcher from South Korea · Ph.D. Student, Electrical and Computer Engineering, Inha University
+- 🧪 Lab: [Affective Artificial Intelligence Lab](https://www.affctiv.ai/) @ Inha
 - 🔥 Research Area: Robotics · Human-Robot Interaction · Brain-Computer Interface
 - 🎓 B.S. in Information and Communication Engineering, Inha University
 
